@@ -1,5 +1,3 @@
-### Hi there 👋 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayuchi&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tayuchi)
@@ -9,6 +7,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,py,django,supabase,prisma,vercel,git,github,gitlab,aws,docker,postman,vscode)](https://skillicons.dev)
 
 <!--
+
+### Hi there 👋 
+
 **Tayuchi/Tayuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
