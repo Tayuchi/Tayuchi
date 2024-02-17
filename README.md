@@ -4,7 +4,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tayuchi)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,django,js,ts,react,nextjs,github,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,django,js,ts,react,nextjs,git,github,aws,docker,vscode)](https://skillicons.dev)
 
 <!--
 ### Hi there 👋 
