@@ -1,10 +1,10 @@
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,django,js,ts,react,nextjs)](https://skillicons.dev)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayuchi&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tayuchi)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tayuchi)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,django,js,ts,react,nextjs)](https://skillicons.dev)
 
 <!--
 ### Hi there 👋 
