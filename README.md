@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Tayu
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,django,js,ts,react,nextjs)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayuchi&layout=compact)
 
@@ -7,6 +7,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tayuchi)
 
 <!--
+### Hi there 👋 
+
 **Tayuchi/Tayuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
