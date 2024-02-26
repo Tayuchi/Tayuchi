@@ -1,6 +1,6 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayuchi&layout=compact" height="150" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tayuchi" height="150" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayuchi&layout=compact" height="150" width="auto">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tayuchi" height="150" width="auto">
 </div>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tayuchi)
