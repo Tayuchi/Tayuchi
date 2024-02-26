@@ -2,9 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tayuchi)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Tayuchi)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tayuchi)](https://git.io/streak-stats)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Tayuchi)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,django,react,nextjs,prisma,supabase,vercel,git,github,gitlab,aws,docker,postman,vscode)](https://skillicons.dev)
 
