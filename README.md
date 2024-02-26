@@ -1,6 +1,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayuchi&layout=compact" height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=Tayuchi" height="150">
+  <img src="https://streak-stats.demolab.com/?user=Tayuchi" height="150">
 </div>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tayuchi)
