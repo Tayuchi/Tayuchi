@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayuchi&layout=compact height="150"">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayuchi&layout=compact height="150">
   <img src="https://github-readme-stats.vercel.app/api?username=Tayuchi" height="150">
 </div>
 
