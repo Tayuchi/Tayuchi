@@ -6,7 +6,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tayuchi)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,django,react,nextjs,prisma,supabase,vercel,git,github,gitlab,aws,docker,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,django,react,nextjs,supabase,prisma,vercel,git,github,gitlab,aws,docker,postman,vscode)](https://skillicons.dev)
 
 
 <!--
