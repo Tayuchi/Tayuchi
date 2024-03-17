@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there👋
 
-    class Introduction:
+### name = "Tayu"
 
-        def __init__(self): 
+### created_at = 2001-01-20
 
-            self.name = "Tayu✌"
+### hobbies = ["movies🎥", "reading📚", "mahjong🀄", "web developing💻"]
 
-            self.created_at = 2001-01-20
-            
-            self.hobbies = ["movies🎥", "reading📚", "mahjong🀄", "web developing💻"]
-            
-            self.greeting = "Nice to see you👋"
+### greeting = "Nice to see you👋"
 
 <!--
 
