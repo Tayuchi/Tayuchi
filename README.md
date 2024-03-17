@@ -1,5 +1,8 @@
 ## Hi there👋
 
+
+<!--
+
 <big><big>
 
 ### class Introduction:
@@ -13,8 +16,6 @@ hobbies = ["movies🎥", "reading📚", "mahjong🀄", "web developing💻"]
 greeting = "Nice to see you👋"
 
 </big></big>
-
-<!--
 
 **Tayuchi/Tayuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
