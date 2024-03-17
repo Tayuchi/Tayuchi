@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <pre>
- class MyIntroduction:
+class MyIntroduction:
  		  def __init__(self):
           self.name = "Tayu"
           self.created_at = "2001-01-20"
