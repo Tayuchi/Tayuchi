@@ -1,17 +1,13 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayuchi&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tayuchi)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tayuchi)](https://git.io/streak-stats)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Tayuchi)
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,django,react,nextjs,supabase,prisma,vercel,git,github,gitlab,docker,postman,vscode)](https://skillicons.dev)
-
-
-<!--
 ### Hi there 👋 
 
+class MyIntroduction(^_^):
+    def __init__(self):
+        self.name = "Tayu"
+        self.hobbies = ["movies", "reading", "mahjong", "web developing"]
+        self.created_at = "2001-01-20"
+        self.comment = "Nice to see you"
+      
+<!--
 **Tayuchi/Tayuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,3 +21,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tayuchi&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tayuchi)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tayuchi)](https://git.io/streak-stats)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Tayuchi)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,django,react,nextjs,supabase,prisma,vercel,git,github,gitlab,docker,postman,vscode)](https://skillicons.dev)
