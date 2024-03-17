@@ -7,12 +7,8 @@ class MyIntroduction:
         self.hobbies = ["movies", "reading", "mahjong", "web developing"]
         self.created_at = "2001-01-20"
         self.comment = "Nice to see you"
+```
 
-    def greet(self):
-        greeting = f"Hi there 👋! I'm {self.name}."
-        hobbies_str = ", ".join(self.hobbies)
-        return f"{greeting} I enjoy {hobbies_str}. I've been around since {self.created_at}. {self.comment}"
-```      
 <!--
 **Tayuchi/Tayuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
