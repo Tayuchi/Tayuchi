@@ -1,12 +1,16 @@
 ## Hi there👋
 
-name = "Tayu"
+<big><big>
 
+name = "Tayu"
+ 
 created_at = 2001-01-20
 
 hobbies = ["movies🎥", "reading📚", "mahjong🀄", "web developing💻"]
 
 greeting = "Nice to see you👋"
+
+</big></big>
 
 <!--
 
