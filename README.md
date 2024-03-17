@@ -4,9 +4,9 @@
 class MyIntroduction:
     def __init__(self):
         self.name = "Tayu"
-        self.hobbies = ["movies", "reading", "mahjong", "web developing"]
+        self.hobbies = ["movies🎥", "reading📚", "mahjong🀄", "web developing💻"]
         self.created_at = "2001-01-20"
-        self.comment = "Nice to see you"
+        self.comment = "Nice to see you(^^)"
 ```
 
 <!--
