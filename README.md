@@ -7,7 +7,7 @@
 ###        	    self.name = "Tayu"
 ###        	    self.created_at = "2001-01-20"
 ###        	    self.hobbies = ["movies🎥", "reading📚", "mahjong🀄", "web developing💻"]
-###        	    self.comment = "Nice to see you:)"
+###        	    self.greeting = "Nice to see you:)"
 
 
 <!--
