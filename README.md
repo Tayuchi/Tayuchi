@@ -1,15 +1,6 @@
-## Hi there 👋
-
-<pre>
-class MyIntroduction:
- 		  def __init__(self):
-          self.name = "Tayu"
-          self.created_at = "2001-01-20"
-     	    self.hobbies = ["movies🎥", "reading📚", "mahjong🀄", "web developing💻"]
-       	  self.greeting = "Nice to see you:)"
-</pre>
-
 <!--
+### Hi there 👋
+
 **Tayuchi/Tayuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
