@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tayuchi)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tayuchi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tayuchi)](https://git.io/streak-stats)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tayuchi)
 
