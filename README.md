@@ -2,20 +2,6 @@
 
 ## Hi there👋
 
-<big><big>
-
-### class Introduction:
-
-name = "Tayu"
- 
-created_at = 2001-01-20
-
-hobbies = ["movies🎥", "reading📚", "mahjong🀄", "web developing💻"]
-
-greeting = "Nice to see you👋"
-
-</big></big>
-
 **Tayuchi/Tayuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
