@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tayuchi)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,django,react,nextjs,supabase,prisma,vercel,git,github,gitlab,docker,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,django,react,nextjs,supabase,prisma,vercel,render,heroku,git,github,gitlab,docker,postman,vscode)](https://skillicons.dev)
